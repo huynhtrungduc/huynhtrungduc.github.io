@@ -14,11 +14,11 @@
 
 @media only screen and (max-width: 570px) {
 	ul li {
-		display: inline-block;
-		padding-left: 15px;
-		width: 140px;
+		display: inline-block; 
+		padding-left: 15px; 
+		width: 140px; 
 		background-position: -5px 0px;
-		margin-right: 6px;
+		margin-right: 6px; 
 		line-height: 1.7em;
 	}
 	#skills-left, skills-right { margin-bottom: 15px; }
